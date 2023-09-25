@@ -26,5 +26,6 @@ Project 5: <br>
 Dataset: A Live google sheet! [2017 to 2022] <br><br>
 Tesla is an American electric vehicle and clean energy company. An important shareholder is tired of receiving only monthly updates of the stock price. <br><br>
 Link= https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/TeslaStockPrice_16723435717390/Dashboard1 <br><br>
+<img src="https://public.tableau.com/static/images/Te/TeslaStockPrice_16723435717390/Dashboard1/4_3.png">
 
 
