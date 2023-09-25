@@ -16,16 +16,26 @@ Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/Book2_16715
 Project 3: <br>
 MyPaper Accounts Dashboard:
 The Finance manager would like to select a customer and view some details mentioned in Dashboard. #business #accounts #trending <br> <br>
-Link= https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/MyPaperAccountsDashboard/Dashboard1 <br> <br>
+Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/MyPaperAccountsDashboard/Dashboard1 <br> <br>
+<img src="https://public.tableau.com/static/images/My/MyPaperAccountsDashboard/Dashboard1/4_3.png"> 
 
+<br><br>
 Project 4: <br>
 Northwind Shipping Analysis. #Shipping #data #Sales #Dilivery #Marketing <br><br>
-Link= https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/NorthwindShippingAnalysis_16721672066970/Dashboard1 <br> <br>
+Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/NorthwindShippingAnalysis_16721672066970/Dashboard1 <br> <br>
+<img src="https://public.tableau.com/static/images/No/NorthwindShippingAnalysis_16721672066970/Dashboard1/4_3.png">
 
+<br><br>
 Project 5: <br>
 Dataset: A Live google sheet! [2017 to 2022] <br><br>
 Tesla is an American electric vehicle and clean energy company. An important shareholder is tired of receiving only monthly updates of the stock price. <br><br>
-Link= https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/TeslaStockPrice_16723435717390/Dashboard1 <br><br>
+Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/TeslaStockPrice_16723435717390/Dashboard1 <br><br>
 <img src="https://public.tableau.com/static/images/Te/TeslaStockPrice_16723435717390/Dashboard1/4_3.png">
+
+<br><br>
+Project 6: <br>
+Super Store Sales Agent Analysis: Superstore is a famous retailer in Canada. They have expanded into the USA and their business model involves placing Sales Agents in every state in the USA. #Sales #Analysis #Superstore #business #USA #Sale #Agents <br><br>
+Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1 <br><br>
+<img src="https://public.tableau.com/static/images/Su/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1/4_3.png">
 
 
