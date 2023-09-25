@@ -15,11 +15,11 @@ Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/Book2_16715
 <br> <br>
 Project 3: <br>
 MyPaper Accounts Dashboard:
-The Finance manager would like to select a customer and view some details mentioned in Dashboard. #business #accounts #trending
+The Finance manager would like to select a customer and view some details mentioned in Dashboard. #business #accounts #trending <br> <br>
 link= https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/MyPaperAccountsDashboard/Dashboard1 <br> <br>
 
 Project 4: <br>
-Northwind Shipping Analysis. #Shipping #data #Sales #Dilivery #Marketing
+Northwind Shipping Analysis. #Shipping #data #Sales #Dilivery #Marketing <br><br>
 link ="https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/NorthwindShippingAnalysis_16721672066970/Dashboard1" <br> <br>
 
 
