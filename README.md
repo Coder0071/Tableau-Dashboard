@@ -3,7 +3,6 @@
 <img src='https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png' alt='Sourabh's Tableau Desktop' width='1000' height='250'> </a> 
 
 
-### Link: https://public.tableau.com/app/profile/sourabh.s.hubballi
 
 Project 1: <br>
 Discount Mart is a small supermarket.The owner wants a dashboard where he can track how well Discount Mart is doing for this year (in terms of Sales, Profit and Quantity Sold). So Here is Dashboard where he can find the data as per his requirement.. <br> <br>
@@ -21,26 +20,26 @@ Green Destinations is a well known travel agency. The HR Director has recently n
 Project 3: <br>
 MyPaper Accounts Dashboard:
 The Finance manager would like to select a customer and view some details mentioned in Dashboard. #business #accounts #trending <br> <br>
-Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/MyPaperAccountsDashboard/Dashboard1 <br> <br>
-<img src="https://public.tableau.com/static/images/My/MyPaperAccountsDashboard/Dashboard1/4_3.png" width='1050' height='500' > 
+<a href='https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/MyPaperAccountsDashboard/Dashboard1'>
+<img src="https://public.tableau.com/static/images/My/MyPaperAccountsDashboard/Dashboard1/4_3.png" width='1050' height='500'> </a>
 
 <br><br>
 Project 4: <br>
 Northwind Shipping Analysis. #Shipping #data #Sales #Dilivery #Marketing <br><br>
-Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/NorthwindShippingAnalysis_16721672066970/Dashboard1 <br> <br>
-<img src="https://public.tableau.com/static/images/No/NorthwindShippingAnalysis_16721672066970/Dashboard1/4_3.png" width='1050' height='500'>
+<a href='https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/NorthwindShippingAnalysis_16721672066970/Dashboard1'>
+<img src="https://public.tableau.com/static/images/No/NorthwindShippingAnalysis_16721672066970/Dashboard1/4_3.png" width='1050' height='500'> </a>
 
 <br><br>
 Project 5: <br>
 Dataset: A Live google sheet! [2017 to 2022] <br><br>
 Tesla is an American electric vehicle and clean energy company. An important shareholder is tired of receiving only monthly updates of the stock price. <br><br>
-Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/TeslaStockPrice_16723435717390/Dashboard1 <br><br>
-<img src="https://public.tableau.com/static/images/Te/TeslaStockPrice_16723435717390/Dashboard1/4_3.png" width='1050' height='500'>
+<a href='https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/TeslaStockPrice_16723435717390/Dashboard1'>
+<img src="https://public.tableau.com/static/images/Te/TeslaStockPrice_16723435717390/Dashboard1/4_3.png" width='1050' height='500'> </a>
 
 <br><br>
 Project 6: <br>
 Super Store Sales Agent Analysis: Superstore is a famous retailer in Canada. They have expanded into the USA and their business model involves placing Sales Agents in every state in the USA. #Sales #Analysis #Superstore #business #USA #Sale #Agents <br><br>
-Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1 <br><br>
-<img src="https://public.tableau.com/static/images/Su/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1/4_3.png" width='1050' height='500'>
+<a href=' https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1'>
+<img src="https://public.tableau.com/static/images/Su/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1/4_3.png" width='1050' height='500'> </a>
 
 
