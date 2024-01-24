@@ -39,7 +39,7 @@ Tesla is an American electric vehicle and clean energy company. An important sha
 <br><br>
 Project 6: <br>
 Super Store Sales Agent Analysis: Superstore is a famous retailer in Canada. They have expanded into the USA and their business model involves placing Sales Agents in every state in the USA. #Sales #Analysis #Superstore #business #USA #Sale #Agents <br><br>
-<a href=' https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1'>
+<a href='https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1'>
 <img src="https://public.tableau.com/static/images/Su/SuperstoreSalesAgentAnalysis_16719488151710/Dashboard1/4_3.png" width='1050' height='500'> </a>
 
 
