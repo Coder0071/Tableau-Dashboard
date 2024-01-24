@@ -3,12 +3,13 @@
 <img src='https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png' alt='Sourabh's Tableau Desktop' width='1000' height='250'> </a> 
 
 
-## Link: https://public.tableau.com/app/profile/sourabh.s.hubballi
+### Link: https://public.tableau.com/app/profile/sourabh.s.hubballi
 
 Project 1: <br>
 Discount Mart is a small supermarket.The owner wants a dashboard where he can track how well Discount Mart is doing for this year (in terms of Sales, Profit and Quantity Sold). So Here is Dashboard where he can find the data as per his requirement.. <br> <br>
 Link = https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/DiscountMart_16713551420560/Dashboard1?publish=yes  <br> <br>
-<img src='https://user-images.githubusercontent.com/102786084/208587773-593747a4-d3d6-4a79-81fa-2f1e144ed586.png' width='1050' height='500' >
+<a href="https://public.tableau.com/app/profile/sourabh.s.hubballi](https://public.tableau.com/app/profile/sourabh.s.hubballi/viz/DiscountMart_16713551420560/Dashboard1?publish=yes">
+<img src='https://user-images.githubusercontent.com/102786084/208587773-593747a4-d3d6-4a79-81fa-2f1e144ed586.png' width='1050' height='500' > </a>
 
  <br> <br>
 Project 2:  <br>
