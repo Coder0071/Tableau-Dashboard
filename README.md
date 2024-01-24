@@ -1,4 +1,4 @@
-<img src='https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png'>
+<img src='https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png' hight= 10px>
 
 # My Tableau-Public-Dashboard   
 ## Link: https://public.tableau.com/app/profile/sourabh.s.hubballi
